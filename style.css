@@ -2,7 +2,6 @@ body {
     background: rgb(226, 161, 186);
 }
 
-
 h1 {
     text-align: center;
     background: rgb(221, 6, 6);
@@ -11,4 +10,8 @@ h1 {
 p {
     text-align: center;
     background: rgb(226, 4, 15);
+}
+
+strong {
+    color:rgb(29, 243, 232);
 }
