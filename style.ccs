@@ -1,7 +1,7 @@
 
-h1 {
+<h1> {
     text-align: center;
     background: black;
 }
-p {MDN reference
+<p> {MDN reference
 }
