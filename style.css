@@ -20,3 +20,10 @@ p {
 strong {
     color:rgb(29, 243, 232);
 } 
+#especial{
+    font-size: 20pt;
+}
+
+.itens{
+    font-style: italic;
+}
