@@ -2,7 +2,7 @@ body {
     background: rgb(226, 161, 186);
 }
 
-#loja{
+#loja {
     width:100%;
     height:500px;
 }
@@ -27,13 +27,13 @@ strong {
 .itens{
     font-style: italic;
 }
-h2{
+h2 {
     text-align: center;
 }
 .beneficios{
  background-color: rgb(105, 55, 82);   
 }
-ul{
+ul {
     display: inline-block;
     vertical-align: top;
 }
