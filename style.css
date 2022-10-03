@@ -33,3 +33,9 @@ h2{
 .beneficios{
  background-color: rgb(105, 55, 82);   
 }
+ul{
+    display: inline-block;
+}
+#moda{
+    width: 50%;
+}
