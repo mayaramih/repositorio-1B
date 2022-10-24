@@ -4,4 +4,5 @@ header{
 
 nav li{
     display: inline;
+    margin: 10px;
 }
