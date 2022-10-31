@@ -22,4 +22,6 @@ nav li{
 nav a{
     text-transform: uppercase;
     color: rgb(152, 69, 163);
+    font-weight: bold;
+    text-decoration: none;
 }
