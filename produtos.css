@@ -1,5 +1,8 @@
 header{
-    background-color: rgba(253, 196, 248, 0.945)
+    background-color: rgba(253, 196, 248, 0.945);
+    position:relative;
+    width: 940px;
+    margin:0 auto;
 }
 
 h1{
