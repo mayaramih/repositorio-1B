@@ -46,13 +46,12 @@ main {
 .produtos{
     width:800px;
     margin:0 auto;
-    padding:50p;
+    padding:50px;
 }
 
 .produtos li{
     display: inline-block;
     text-align: center;
-    width: 30%;
 }
 
 .item{
