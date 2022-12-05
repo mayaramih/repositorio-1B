@@ -53,9 +53,9 @@ main {
     display: inline-block;
     text-align: center;
     margin:0 10px;
-    border-color:black;
+    border-color:rgb(112, 108, 108);
     border-width: 3px;
-    border-style: solid;
+    border-style: dotted;
 }
 
 .item{
