@@ -59,4 +59,8 @@ main {
     height: 260px;
 }
 
-.produtos li h2
+.produtos li h2{
+    font-size:30px;
+    font-weight: bold;
+}
+
