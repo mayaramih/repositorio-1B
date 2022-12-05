@@ -54,8 +54,8 @@ main {
     text-align: center;
     margin:0 10px;
     border-color:rgb(112, 108, 108);
-    border-width: 3px;
-    border-style: dotted;
+    border-width: 5px;
+    border-style: double;
 }
 
 .item{
